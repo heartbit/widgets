@@ -1,0 +1,4 @@
+widgets
+=======
+
+Awesome embeddable widgets
